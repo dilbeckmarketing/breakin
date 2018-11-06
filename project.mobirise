@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Break Into Luxury",
-    "currentPage": "index.html",
+    "currentPage": "breakin.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -30,10 +30,10 @@
     "siteUrl": "undefined"
   },
   "pages": {
-    "index.html": {
+    "breakin.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Break into Luxury Real Estate",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
